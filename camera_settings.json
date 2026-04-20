@@ -1,0 +1,11 @@
+{
+  "brightness": 0,
+  "contrast": 50,
+  "saturation": 50,
+  "sharpness": 100,
+  "white_balance_temperature": 50,
+  "focus_absolute": 10,
+  "pan_absolute": 0,
+  "tilt_absolute": 0,
+  "zoom_absolute": 9
+}
